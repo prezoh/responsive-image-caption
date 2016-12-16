@@ -20,3 +20,22 @@ html {
 body {
   margin: 0;
 }
+
+.wrapper {
+  background-color: #e2e2e2;
+}
+
+.img-flex {
+  width: 100%;
+  position: relative;
+  display: block;
+}
+
+.content {
+  padding-left: 1.5rem;
+  padding-bottom: .5rem;
+}
+
+h2 {
+  font-family: "Denk One", sans-serif;
+}
