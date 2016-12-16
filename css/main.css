@@ -54,3 +54,29 @@ h2 {
   }
 
 }
+
+@media only screen and (min-width: 38em) {
+
+  html {
+    font-size: 110%;
+    line-height: 1.4;
+  }
+
+  .wrapper {
+    background-color: #fff;
+  }
+
+  .content {
+    color: #fff;
+    position: absolute;
+
+    background-color: rgba(0, 0, 0, .3);
+    border-radius: .5rem;
+
+    padding-left: 1.25rem;
+    padding-right: 1rem;
+    margin-top: -10rem;
+    margin-left: 13rem;
+    margin-right: 1rem;
+  }
+}
